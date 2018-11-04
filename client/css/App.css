@@ -7,15 +7,37 @@
   height: 80px;
 }
 
+.visible.transition {
+    margin-top: auto !important;
+    display: inline-block !important;
+    position: relative;
+    top: 20%;
+}
+
+.writeComment {
+    float: left!important;
+}
+
+
 .App-header {
-  background-color: #222;
-  height: 150px;
+  height: 80px;
   padding: 20px;
   color: white;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../assets/bannerbg.png");
+  background-size: contain;
+}
+
+.App-login-header {
+  height: 80px;
+  padding: 20px;
+  color: white;
+  background: #222;
+  background-size: contain;
 }
 
 .App-title {
-  font-size: 1.5em;
+  font-size: 3em;
+  margin-top: 8%;
 }
 
 .App-intro {
@@ -25,4 +47,8 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+body {
+  background-color: FloralWhite;
 }
