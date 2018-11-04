@@ -1,5 +1,3 @@
-[[https://github.com/hurenxu/TeamSolid/blob/new_documentation/client/css/Team_Logo.png]]
-
 # Who is TeamSolid ? 
 
 TeamSolid is an undergraduate Software Engineering team pertaining to CSE112: Advanced Software Engineering which is taught by lecturer Thomas Powell at University of California, San Diego. The goal of the team is to develop a Social Media Web Application using methodologies of Software Engineering that enhance and facilitate software development.
